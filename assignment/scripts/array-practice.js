@@ -137,6 +137,6 @@ console.log('The foods are now', favoriteFoodsString);
 //     It should look something like:
 //     ['pizza', 'pasta', 'fish', 'cat', 'bird', 'dog']
 
-let combinedArray = favoriteFoods.concat(animalArray);
+let combinedArray = favoriteFoods.concat(animalArray); //combined food and animal arrays
 
 console.log('The Foods and Animals combined', combinedArray);
